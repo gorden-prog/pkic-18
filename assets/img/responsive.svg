@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="380"
+     height="166.54"
+     viewBox="0 0 575 252"
+     role="img"
+     aria-labelledby="title desc">
+  <title id="title">Responsive design devices</title>
+  <desc id="desc">Mobile, tablet and desktop device icons with colored layout blocks.</desc>
+
+  <rect width="575" height="252" fill="#ffffff"/>
+
+  <!-- Mobile -->
+  <g transform="translate(43 114)">
+    <rect x="0" y="0" width="34" height="71" rx="1.5" fill="#f7f7f7" stroke="#555" stroke-width="1.5"/>
+    <rect x="1.5" y="2" width="31" height="4" fill="#8b4a00"/>
+    <rect x="1.5" y="7" width="31" height="6" fill="#00ff19"/>
+    <rect x="1.5" y="14" width="31" height="6" fill="#ff1111"/>
+    <rect x="1.5" y="21" width="31" height="19" fill="#008c0d"/>
+    <rect x="8" y="41.5" width="24" height="18" fill="#130b8b"/>
+  </g>
+
+  <!-- Tablet -->
+  <g transform="translate(139 73)">
+    <rect x="0" y="0" width="88" height="116" fill="#f4f4f4" stroke="#555" stroke-width="4"/>
+    <rect x="5" y="6" width="19" height="10" fill="#8b4a00"/>
+    <rect x="25" y="6" width="53" height="10" fill="#00ff19"/>
+    <rect x="5" y="18" width="73" height="10" fill="#ff1111"/>
+    <rect x="5" y="30" width="73" height="28" fill="#008c0d"/>
+    <rect x="30" y="61" width="50" height="31" fill="#130b8b"/>
+  </g>
+
+  <!-- Desktop -->
+  <g transform="translate(286 36)">
+    <rect x="0" y="0" width="267" height="157" fill="#f4f4f4" stroke="#555" stroke-width="8"/>
+    <rect x="7" y="10" width="64" height="25" fill="#8b4a00"/>
+    <rect x="72" y="10" width="181" height="25" fill="#00ff19"/>
+    <rect x="7" y="37" width="246" height="17" fill="#ff1111"/>
+    <rect x="7" y="57" width="246" height="49" fill="#008c0d"/>
+    <rect x="129" y="108" width="124" height="43" fill="#130b8b"/>
+  </g>
+
+  <!-- Labels -->
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#008000" text-anchor="middle">
+    <text x="60" y="228">Mobile</text>
+    <text x="183" y="228">Tablet</text>
+    <text x="419" y="228">Desktop</text>
+  </g>
+</svg>
